@@ -1,0 +1,20 @@
+Clase ilustrada
+
+Se acabaron las entradas? entradas_disp=0
+aprobe la materia? nota_obt>=80
+mi hermano es mas viejo que yo? mi_edad<edad_hno edad_hno>mi_edad
+eres de la tercera edad? edad>=55
+estoy libre de deudas? deuda=0
+ya comenzo la pelicula? pelicula=verdadero  o  tiempo_trans>0
+este año es bisiesto? dias_feb=29
+
+
+Practica dentro de clase
+
+Puedo ir a una fiesta nocturna? edad>=18  o  medio_traslado=verdadero  o  tiene_dinero=verdadero
+Soy empleado antiguo? años_serv>=20
+En un supermercado, tengo suficiente dinero para cancelar el monto calculado en caja? dinero_disp>=mto_fact
+Para comenzar una seccion deben haber al menos 8 alumnos inscritos=  alum_insc >= 8
+Recibo descuento si el monto a pagar es mayor a 10000=  mto_pagar>10000
+voy al juego de beisbol si quedan al menos= ent_disp>=4
+No puedo llevar mas de 122 unidades de un producto=  cant_unid<=12
