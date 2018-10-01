@@ -1,0 +1,5 @@
+Cuando definimos las variables en el subproceso se les llama "parametros Formales"
+
+Cuando definimos las variables en la invocacion del subproceso se les llama "paramatros actuales"
+
+Recordar que hay parametros "por Valor" (estos son por defecto en el pseint) y hay parametros "por Referencia" estos hay que declararlos al lado de el parametro asi: subproceso (parametro por Referencia)
