@@ -1,0 +1,28 @@
+Enunciado de la tarea 2 de la sección 2695
+
+Dado el enunciado, elabore un algoritmo que cumpla con los objetivos indicados. ENUNCIADO: Para entrar a un evento se ofrecen 3 tipos de boletos (el cual será ingresado con una letra (que pudiera ser escrita en mayúscula o minúscula):a los precios indicados. Tenga presente que en una compra se adquiere cierta cantidad de un sólo tipo de boleto.
+Tipo de localidad                   Precio
+[V]ip                                  300  
+[P]referencial                         200
+[G]eneral                              100
+Y dependiendo del monto a pagar preliminar se otorgará un descuento :
+Total a Pagar                Porcentaje de Descto
+400 o menos                           3%
+Entre 700 y 900                       5%
+A partir 1200                         7%  
+Cualquier otro monto fuera de rango   6%               
+Como salidas se debe mostrar lo siguiente:
+* Precio y cantidad de boletos a comprar
+* Monto pre-descuento
+* Monto del descuento
+* Total a Pagar (habiendo aplicado el descuento)
+
+1.- Realizar el análisis correcto del enunciado e identificar Entradas, Procesos y Salidas; identificando todas las variables necesarias con nombres significativos
+
+2.- Crear el algoritmo en PseInt usando las instrucciones (secuenciales y de control) pertinentes dentro de cada uno de los bloques: Declarativo, Entrada, Procesamiento y Salida. No combine salidas con instrucciones de proceso.
+
+3.- Implementar estructuras selectivas que considere necesarias, simple y dobles, ej: para evaluar los tipos de boletos y condicionar salidas
+
+4.- Implementar anidamiento de condicionales, para evaluar intervalos usando operadores lógicos como Y.
+
+5.- Cumplir con las reglas síntácticas/semánticas y generar todas las salidas requeridas de forma correcta y documentar el algoritmo donde sea necesario.

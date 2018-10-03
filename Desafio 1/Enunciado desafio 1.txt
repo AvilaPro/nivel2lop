@@ -1,0 +1,13 @@
+Enunciado de la tarea 1 de la sección 2695
+
+Presente las soluciones que satisfagan los siguientes objetivos:
+
+1.- Hacer un flujograma en Clickcharts del proceso (al menos 8 pasos) de su preferencia donde se aprecie un ciclo.
+
+2.- Hacer un algoritmo en PseInt para listar los años bisiestos entre el 2016 y el 2040 usando ciclo PARA
+
+3.- Hacer un algoritmo en PseInt para listar de manera descendente los números impares entre 1 y 51
+
+4.- Hacer un algoritmo en PseInt en base al siguiente enunciado: Leer los nombres y el género (F: Femenino y M: Masculino) de N personas, usando ciclo PARA
+
+5.- Con base el enunciado anterior y usando selectiva simple...cada vez que obtenga los datos de una persona, mostrar un mensaje donde se muestre el nombre y si la persona es hombre o mujer. Por Ej: María es Mujer, José es Hombre.
