@@ -1,0 +1,21 @@
+Enunciado de la tarea 3 de la sección 2695
+
+En base al enunciado desarrollar un algoritmo MODULAR que satisfaga los objetivos indicados. 
+ENUNCIADO: Procesar las notas de un estudiante y desplegar la información indicada solamente si las notas ingresadas están dentro del rango correspondiente. Del estudiante se conocen las siguientes notas:
+- 3 examenes parciales de 25 ptos
+- 1 trabajo práctico de 15 ptos
+- evaluación continua de 10 ptos
+La información que teóricamente debe desplegarse es la nota en las escalas de 100, 20 y 4 y tomando en cuenta la nota sobre 100, mostrar el criterio cualitativo aplicable: 
+0-49 Insuficiente
+50-69 Aceptable
+70-95 Sobresaliente
+95-100 Excelente
+1.- Identificar variables, módulos y parámetros necesarios. Recuerde que los identificadores utilizados deben ser significativos.
+
+2.- Definir los parámetros en el cuerpo principal, implementar el uso de variables locales (al menos una).
+
+3.- Implementar estructuras selectivas simples y dobles, implementar anidamiento de condicionales y condicionar salidas.
+
+4.- Implementar modularidad apegándose a la singularidad de propósito (cada módulo debe tener un sólo objetivo primario), realizando la definición e invocación de los módulos especificando los parámetros según se requiera.
+
+5.- Cumplir con las reglas sintácticas/semánticas, incluyendo los mensajes de error pertinentes y documentar el algoritmo donde sea necesario.
