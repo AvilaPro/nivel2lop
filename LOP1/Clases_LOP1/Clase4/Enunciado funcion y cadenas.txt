@@ -1,0 +1,7 @@
+Leer 2 numeros, mostrar su valor absoluto, su parte entera, su raiz cuadrada y su entero mas cercano y mostrar 2 enteros 
+(entre 0 y 20) generados con las funciones azar y aleatorio respectivamente (En ayuda de PseInt se puede apreciar el proposito de cada funcion)
+
+2) teniendo como datos de entrada, el nombre y la inical del apellido de una persona
+Mostrar:
+	El nombre y la inicial del apellido (solo inicial de cada uno en mayusucula) concatenadas, separados por un espacio.
+	Cuantos caracateres tiene el nombre y la cadena final

@@ -1,0 +1,14 @@
+1.- Identificar 4 IDE (Entorno de Desarrollo Integrado) e investigar por c/u los siguientes aspectos: 
+lenguajes para los cuáles se puede desarrollar, características (al menos 4) y sistemas operativos en los que 
+puede instalar (no colocar solamente que el multiplataforma).
+
+2.- Usando el programa ClickCharts haga el diagrama de flujo del algoritmo para montar la solución dentro del 
+sistema web de evaluación de desafíos de CADI F1
+
+3.- Usando el programa ClickCharts haga el diagrama de flujo del algoritmo para inscribirse en una carrera en CADI F1
+
+4.- Haga un programa nuevo en PSeInt (Descargar de pseint.sourceforge.net) para leer las entradas y mostrar 
+las salidas del algoritmo para inscribirse en una carrera en CADI F1. Declare las variables necesarias con el tipo de dato más adecuado
+
+5.- Describa con sus propias palabras y exprese como se relacionan los siguientes conceptos: algoritmo, código fuente, 
+lenguaje de programación, compilador, código ejecutable e IDE.

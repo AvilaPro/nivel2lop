@@ -1,0 +1,5 @@
+Una empresa dedicada a la comercializacion de articulos importados desea un programa que determine e imprima 
+el precio de venta de un articulo y el monto que devce cancelar el comprador por impuesto al valor agregado (IVA) 
+el cual es equivalente al 15% del precio base. El precio base se obtiene sumandole al precio de fabrica la ganancia, 
+equibalente al 25% del precio de fabrica, y la comision del vendedor, equivalente al 20% del precio de fabrica. 
+Como dato de entrada se tiene el precio de fabrica del articulo

@@ -1,0 +1,18 @@
+Pasos para enviar un correo electronico
+
+1. Abrir el navegador web
+2. hacer click en la barra de direccion
+	2.1 Insertar la direccion del servidor web de correo electronico.
+	2.2 Dar click en "enter".
+3. Dar click en el boton que nos permita loguearnos
+4. Loguear la cuenta de correo electronico.(Sub proceso de loguear la cuenta)
+5. Dar click en el boton de enviar correo electronico.
+6. En la ventana de redaccion del correo:
+	6.1 Colocar la direccion(es) de correo(s) a donde queremos enviar el correo.
+	6.2 Colocar el asunto.
+	6.3 Seleccionar o no, si deseamos que el o los destinatarios queden ocultos.
+	6.4 Redacatar y/o aduntar archivos al correo.
+	6.5 Verificar el correo.
+7. Dar click en el boton "enviar".
+8. Si se desea, cerrar sesion del correo.
+9. Si se desea, cerrar el navegador web.

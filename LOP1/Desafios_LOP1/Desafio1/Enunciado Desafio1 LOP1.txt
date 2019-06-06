@@ -1,0 +1,15 @@
+Enunciado de la tarea 1 de la sección 2673
+
+Cumplir con los objetivos descritos a continuación. Para digaramar los flujogramas  (descargar el instalador de la siguiente direccion
+ https://www.dropbox.com/s/6nlcvzgj4m1ljbz/clickchartsetupfree.exe?dl=0).
+ Para capturar la ventana activa presione simultáneamente Alt+ImpPant, usando la herramienta Recortes de Windows se puede capturar una porción de la pantalla. 
+
+1.- Escribir textualmente el algoritmo para comprar entradas en el cine a través de la página web de Cines Unidos. Considerar la mayor cantidad de situaciones posibles.
+
+2.- Hacer el flujograma correspondiente al algoritmo descrito en el objetivo anterior.
+
+3.- Hacer el flujograma del algoritmo para enviar un paquete a través de una empresa de envíos (por ejemplo, MRW).
+
+4.- Resolver el nivel 7 del juego del pájaro de Blocky Games. (https://blockly-games.appspot.com/bird?lang=es&level=7). Debe hacer el printScreen del algoritmo resuelto y ejecutado donde se vea que el pájaro llega al nido.
+
+5.- Realizar los 8 ejercicios de la Hora de Código que se accede a través de la siguiente dirección URL https://studio.code.org/s/sports/stage/1/puzzle/1, y capturar las pantallas donde se aprecie el algoritmo que resuelve cada ejercicio.
