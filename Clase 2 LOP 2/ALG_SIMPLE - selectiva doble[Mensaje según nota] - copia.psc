@@ -18,7 +18,7 @@ Algoritmo sin_titulo
 		Si nota_final>=19 entonces
 			Mensaje2="... Felicitaciones por su excelente promedio!" 
 		FinSi
-		Si nota_final<5 entonces
+		Si nota_final<=9 entonces
 			Mensaje2= "...Ud. debe esforzarse más, su promedio es muy bajo"
 		FinSi
 		Mostrar Mensaje1 Mensaje2

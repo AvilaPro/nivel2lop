@@ -1,4 +1,4 @@
-Algoritmo For While Repeat
+Algoritmo For_While_Repeat
 	Para i<-1 Hasta 12 Hacer
 		Escribir 'i va en: ',i
 	FinPara
