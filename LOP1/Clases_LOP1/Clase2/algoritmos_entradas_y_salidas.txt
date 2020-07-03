@@ -1,0 +1,74 @@
+Llamar por telefono: (entradas y salidas)
+
+Entradas:
+	1. El numero de telefono a llamar
+	2. A quien llamamos
+	3. Conversacion (lo que nos dicen)
+Salidas:
+	1. Mensaje que va a ser transmitido
+		1.1 Variantes del mensaje
+
+Sacar el dinero (entradas y salidas)
+Entradas:
+	1. Monto a retirar
+	2. Conocer donde esta el cajero
+	3. Instrucciones del cajero
+Salidas:
+	1. clave de la tarjeta
+	2. monto a retirar
+	3. Codigo de seguridad (dos primeros o dos ultimos digitos de la cedula)
+
+Algoritmo de Asignatura (calcular la nota):
+Entradas:
+	1. Las notas obtenidas en cada evaluacion.
+	2. Nombre del alumno
+	3. Cedula del alumno
+Proceso:
+	1. Estimar la nota promedio de los tres examenes
+	2. Sumarse todas las notas
+	3. Llevarse el total de notas a las escala correspondiente (100, 20, 4)
+Salidas:
+	1. Informar las notas del alumno (individualmente)
+	2. Informar el total de las notas del alumnos (la sumatoria de todas las notas)
+	3. El promedio segun el caso que lo requiera (100, 20, 4 puntos)
+
+
+
+
+
+
+
+
+
+
+
+
+verticeTrianguloIsoceles = vertTriIso
+
+(X) 1nombre,
+
+nombre, _nombre, vertice_triangulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
