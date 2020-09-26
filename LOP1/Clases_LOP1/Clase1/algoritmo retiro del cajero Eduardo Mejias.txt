@@ -2,7 +2,7 @@ Pasos para retirar dinero del cajero automatico.
 
 1. Aproximarse al cajero automatico. (Inicio)
 2. Una vez frente al cajero automatico, Inertar tarjeta.
-3. Seguir las instrucciones del cajero automatico que generalmente son los suguiente:
+3. Seguir las instrucciones del cajero automatico que generalmente son los siguiente:
 	3.1 Insertar clave de seguridad. (Sub proceso de la contraseña)
 	3.2 Seleccionar la opcion a realizar (en este caso es "retirar dinero"). (subproceso de la operacion a realizar)
 		3.2.1 Seleccinamos el monto a retirar.
