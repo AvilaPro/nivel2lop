@@ -1,0 +1,9 @@
+1. Identificar las entradas y salidas del algoritmo "comprar entradas en el cine" (muestra textual).
+
+2. Identificar las entradas y salidas del algoritmo "enviar un paquete de envios" (muestra textual)
+
+3. Identificar las entradas y salidas del siguiente problema: "inscribirse en la academia cadif1"
+
+4. Hacer un cuadro de variables para los algoritmos del punto 1 y 3 presentado anteriormente (cuadro como el mostrado en clase) para identificar las variables.
+
+5. Escribir en PSeInt el algoritmo comprar entradas en el cine. Identifique correctamente las variables necesarias y su tipo correctamente.

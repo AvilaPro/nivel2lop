@@ -10,10 +10,7 @@ Y generar las siguientes salidas según se indica:
 * 1era línea: Cédula {Letra-########. Ej: V-1234567} y RIF personal {Letra-########-#. Ej: V-1234567-0} 
 * 2da línea: 1er Nombre, 1er Apellido (Inicial en mayúscula y el resto en minúsculas) 
 * 3era línea: Lugar de Nacimiento (mayúsculas). 
-NOTAS IMPORTANTES: Entre corchetes está la letra a leer para la nacionalidad. El número al final del RIF Personal debe 
-ser generado como un número al azar entre 0 y 9. Los formatos están indicados entre llaves. La letra de la nacionalidad 
-debe ser convertida a mayúsculas. En las cadenas debe incluir los literales de texto y los espacios en blanco que sean 
-necesarios
+NOTAS IMPORTANTES: Entre corchetes está la letra a leer para la nacionalidad. El número al final del RIF Personal debe ser generado como un número al azar entre 0 y 9. Los formatos están indicados entre llaves. La letra de la nacionalidad debe ser convertida a mayúsculas. En las cadenas debe incluir los literales de texto y los espacios en blanco que sean necesarios
 
 1.- Analizar el problema, identificando: datos necesarios, acciones de entrada/proceso/salida, variables. 
 Recuerde que los identificadores utilizados para las variables deben ser significativos.
@@ -23,7 +20,6 @@ instrucciones de salida en el proceso.
 
 3.- Implementar el uso de funciones de cadena y función AZAR o ALEATORIO.
 
-4.- Documentar el algoritmo donde sea necesario, en particular para indicar las acciones implicadas en dar 
-formato a cada dato a ser mostrado. También, indique con comentarios donde se usa cada variable(E/P/S).
+4.- Documentar el algoritmo donde sea necesario, en particular para indicar las acciones implicadas en dar formato a cada dato a ser mostrado. También, indique con comentarios donde se usa cada variable(E/P/S).
 
 5.- Cumplir con las reglas sintácticas/semánticas y generar todas las salidas requeridas de forma correcta.

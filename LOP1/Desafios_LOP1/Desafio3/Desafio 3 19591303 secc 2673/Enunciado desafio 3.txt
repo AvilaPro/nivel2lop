@@ -7,7 +7,8 @@ ENUNCIADO: Una compañía dedicada al alquiler de vehículos ofrece a sus clientes 
 
 - Un monto de reserva del 35% del costo total del alquiler del vehículo por el lapso de días que desea rentarlo.
 
-- La diferencia restante debe ser fraccionada el lapso de días que durará el alquiler y será cargada a la tarjeta de crédito del cliente diariamente.
+- La diferencia restante debe ser fraccionada el lapso de días que durará el alquiler y será cargada a la tarjeta
+ de crédito del cliente diariamente.
 
 Se debe mostrar en pantalla lo siguiente:
 
@@ -15,9 +16,10 @@ Se debe mostrar en pantalla lo siguiente:
 
 2) El monto de la cuota diaria a ser cargado en la tarjeta de crédito del cliente.
 
-IMPORTANTE: El archivo a cargar debe ser un archivo comprimido incluyendo los archivos en PseInt. Para el inciso 3.- Ver imagen "Expresion.png"
+IMPORTANTE: El archivo a cargar debe ser un archivo comprimido incluyendo los archivos en PseInt
 
-1.- Analizar el problema para identificar datos necesarios (entradas), información resultante (salidas) y acciones de entrada y salida necesarias. Los identificadores de variables deben ser significativos. El resultado 
+1.- Analizar el problema para identificar datos necesarios (entradas), información resultante (salidas) y 
+acciones de entrada y salida necesarias. Los identificadores de variables deben ser significativos. El resultado 
 del análisis debe estar en otro archivo.
 
 2.- Crear el algoritmo en PseInt usando las instrucciones pertinentes y necesarias (Declaraciones, Entradas y Salidas y Asignación).
@@ -30,3 +32,4 @@ las instrucciones necesarias.
 5.- Cumplir con las reglas sintácticas, generar todas las salidas requeridas de forma correcta y Documentar 
 del algoritmo usando comentarios, documentando lo que considere necesario y pertinente.
 
+Para la 3. Ver imagen "Expresion"

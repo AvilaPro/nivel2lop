@@ -44,7 +44,7 @@ FinSubAlgoritmo
 
 
 
-Algoritmo sin_titulo
+Algoritmo SolucionDelDesafio1LOP3
 	Dimension tiendas[4]
 	Dimension totales[4]
 	Definir promedio Como Real

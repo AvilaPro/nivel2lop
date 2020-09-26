@@ -1,15 +1,16 @@
 Enunciado de la tarea 1 de la sección 2673
 
-Cumplir con los objetivos descritos a continuación. Para digaramar los flujogramas  (descargar el instalador de la siguiente direccion
+Cumplir con los objetivos descritos a continuación. Para diagramar los flujogramas  (descargar el instalador de la siguiente direccion
  https://www.dropbox.com/s/6nlcvzgj4m1ljbz/clickchartsetupfree.exe?dl=0).
  Para capturar la ventana activa presione simultáneamente Alt+ImpPant, usando la herramienta Recortes de Windows se puede capturar una porción de la pantalla. 
+Nota: Una vez tenga todas las capturas comprima las imagenes y asegurese que el archivo final no pese mas de 5 MB para asegurar que suban exitosamente.
 
-1.- Escribir textualmente el algoritmo para comprar entradas en el cine a través de la página web de Cines Unidos. Considerar la mayor cantidad de situaciones posibles.
+1.- Escribir textualmente el algoritmo para comprar entradas en el cine a través de la página web de Cines Unidos. Considerar la mayor cantidad de situaciones posibles. Recomiendo escribir el algoritmo en bloc de notas y guardar este archivo con extension .txt (ejemplo: desafio1_1.txt)
 
-2.- Hacer el flujograma correspondiente al algoritmo descrito en el objetivo anterior.
+2.- Hacer el flujograma correspondiente al algoritmo descrito en el objetivo anterior. (para ello usar la herramienta que deberan descargar del enlace o en su defect instalar clickcharts)
 
-3.- Hacer el flujograma del algoritmo para enviar un paquete a través de una empresa de envíos (por ejemplo, MRW).
+3.- Hacer el flujograma del algoritmo para enviar un paquete a través de una empresa de envíos (por ejemplo, Zoom).
 
-4.- Resolver el nivel 7 del juego del pájaro de Blocky Games. (https://blockly-games.appspot.com/bird?lang=es&level=7). Debe hacer el printScreen del algoritmo resuelto y ejecutado donde se vea que el pájaro llega al nido.
+4.- Resolver el nivel 7 del juego del pájaro de Blocky Games. (https://blockly-games.appspot.com/bird?lang=es&level=7). Debe hacer el printScreen del algoritmo resuelto y ejecutado donde se vea que el pájaro llega al nido (ayuda ir haciendo los niveles anteriores para practicar y poder resolver el nivel 7, recuerde solo se requiere que envie la solucion del nivel 7).
 
-5.- Realizar los 8 ejercicios de la Hora de Código que se accede a través de la siguiente dirección URL https://studio.code.org/s/sports/stage/1/puzzle/1, y capturar las pantallas donde se aprecie el algoritmo que resuelve cada ejercicio.
+5.- Realizar los ejercicios del (7 al 14) de la Hora de Código que se accede a través de la siguiente dirección URL https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1, y capturar las pantallas donde se aprecie el algoritmo que resuelve cada ejercicio. Dar click en "Show code" para ver el codigo y hacer captura de cada nivel (recuerde del 7 al 14).
